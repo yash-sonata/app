@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    user1:
+      email: jsmith@gmail.com
+      name: user1
+      password: abc # To be replaced with hashed password
+    user2:
+      email: rbriggs@gmail.com
+      name: user2
+      password: def # To be replaced with hashed password

@@ -1,0 +1,7 @@
+mysql_connector_repackaged==0.3.1
+pandas==2.2.3
+PyYAML==6.0.2
+PyYAML==6.0.2
+streamlit==1.40.2
+streamlit_authenticator==0.4.1
+openpyxl==3.1.5
